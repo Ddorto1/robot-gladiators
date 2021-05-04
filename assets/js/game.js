@@ -63,5 +63,3 @@ if (promptFight === "fight" || promptFight === "FIGHT") {
 
 fight();
 
-
-jkjk
